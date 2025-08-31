@@ -1,0 +1,1 @@
+# A Polling App with QR Code Sharing (AI-Assisted Development)
